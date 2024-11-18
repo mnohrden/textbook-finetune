@@ -28,7 +28,7 @@ Now that you did all that you can use the files in order and follow all the inst
 1. Cleanup_Data.py
 2. QA_Pair_Generation.py
 3. Find_Max_Tokens_In_Cell_Of_CSV.py
-4. Convert_CSV_To_Alpaca_Style_JSON .py <- OK honestly I made a private version of this repo a while ago and had this file in there but I don't know why you need this
+4. Convert_CSV_To_Alpaca_Style_JSON .py _<- OK honestly I made a private version of this repo a while ago and had this file in there but I don't know why you need this_
 5. Finetune_LLM_Using_Unsloth.py
 
 I hope you find this useful/interesting!
