@@ -31,4 +31,4 @@ Now that you did all that you can use the files in order and follow all the inst
 4. Convert_CSV_To_Alpaca_Style_JSON .py
 5. Finetune_LLM_Using_Unsloth.py
 
-I hope you find this useful/interesting!
+- I might try and refactor so that it's all one file at some point ... also would be cool to use tinygrad instead of torch
