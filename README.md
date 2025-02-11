@@ -1,4 +1,4 @@
-﻿# Finetune an LLM on Your Own Books!
+﻿# Finetune an LLM on Your Own Textbooks!
 Currnetly will fineune a 4bit quantized version of Llama3.1-8b, but you can change this to any model supported by unsloth: https://docs.unsloth.ai/get-started/all-our-models
 
 Unsloth has dependencies that only work on Linux so use WSL if you're on Windows.
